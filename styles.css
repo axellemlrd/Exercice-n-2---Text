@@ -1,0 +1,50 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  color: black;
+  background-color: white;
+}
+
+
+main {
+  padding: 1rem;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 160px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0px;
+  text-transform: uppercase;
+}
+
+h2 {
+  font-weight: bold;
+  font-size: 20px;
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif, 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+q {
+  font-weight: bold;
+  font-size: 45px;
+  margin: 0;
+  line-height: 50px;
+  font-family: Arial, Helvetica, sans-serif, 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p {
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(0, 0, 0);
+  line-height: 19px;
+}
+
+.header {
+  padding-bottom: 40px;
+
+}
